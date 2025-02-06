@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "887955876149",
+    "project_id": "spendly-20b29",
+    "storage_bucket": "spendly-20b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887955876149:android:36f836bca0a77ddc45047c",
+        "android_client_info": {
+          "package_name": "com.example.spendly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887955876149-2k8o6r7b3uu078n3gugu6ar7tstoan68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spendly",
+            "certificate_hash": "391234e8b0345c7322eec7ed0d7a65319fecaa2c"
+          }
+        },
+        {
+          "client_id": "887955876149-leoqks6cimu1clh0m00985r9v4uti9g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oDHk2FHIvhWnUkxLnMAWQAohAAOx7uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887955876149-leoqks6cimu1clh0m00985r9v4uti9g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
